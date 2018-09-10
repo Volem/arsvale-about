@@ -1,5 +1,3 @@
-# ARSVale Hakkında
-
 * ARSVale Vale hizmeti veren işletmeler için kurulum gerektirmeyen bir çözüm sunmaktadır.
 *  ARSVale uygulaması [ARSevo Yazılım Çözümleri][arsevourl] tarafından geliştirilmiştir.
 * Yazılım hakkında destek için [destek@arsevo.com][arsevodestekmail] adresine bir email atabilirsiniz.
